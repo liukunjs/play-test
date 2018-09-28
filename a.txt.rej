@@ -1,0 +1,7 @@
+diff a/a.txt b/a.txt	(rejected hunks)
+@@ -3,3 +3,4 @@
+ 333
+ 444
+\ No newline at end of file
++666 555 6666
+ 777
