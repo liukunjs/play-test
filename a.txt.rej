@@ -1,0 +1,7 @@
+diff a/a.txt b/a.txt	(rejected hunks)
+@@ -1,4 +1,5 @@
+ -
+++HEAD
+ +111
+ +222
+ +333
